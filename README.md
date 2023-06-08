@@ -1,4 +1,4 @@
-# HelloHardware - PT-BR
+# HelloHardware - PT-BR - ENGLISH - SPANISH
 Projeto de Site informativo de hardware.
 
 Esse projeto é sobre um site para um projeto avaliativo da faculdade, no 2º periodo do curso. Utilizando a linguagem PHP, HTM, CSS e JS. e o banco MySQL Workbench.
